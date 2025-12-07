@@ -1,4 +1,4 @@
-# Automation Testing Project
+# TestNG Automation
 ## Project Description
 This project is an automated testing suite for the web application hosted at Daily Finance. The objective is to ensure the key functionalities of the application, such as user registration, password reset, item addition, profile updates, and admin functionalities, are working as expected. The tests include both positive and negative scenarios to validate the robustness and reliability of the application.
 
@@ -62,7 +62,7 @@ Follow these steps to execute the automated tests:
 - View Test Reports
 
 ## Test Case Link
-https://docs.google.com/spreadsheets/d/16mj-HPobFJfvYhj-rGrcFOyjd7sx9_BVEOnQePDU-3c/edit?usp=sharing
+[https://docs.google.com/spreadsheets/d/16mj-HPobFJfvYhj-rGrcFOyjd7sx9_BVEOnQePDU-3c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1hXeXNsRZxHLtOdFZoXvBcp_Eah7-mptidm60NWsajMQ/edit?gid=0#gid=0)
 
 ## Reports:
 ![image](https://github.com/user-attachments/assets/7d371151-50c6-4c2b-bc6a-45adcc32d5c9)
