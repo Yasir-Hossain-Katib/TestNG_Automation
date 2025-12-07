@@ -22,30 +22,6 @@ Before running the tests, ensure you have the following set up:
 **Dependencies:**
 - Update the ```build.gradle``` file with required libraries such as Selenium, TestNG, and Rest Assured API libraries.
 
-## What I Have Done
-The following steps were automated and tested successfully:
-
-**User Registration:**
-- Registered a new user using a valid Gmail address.
-- Validated the receipt of the “Congratulations” email.
-
-**Password Reset:**
-- Implemented two negative test cases for invalid email and non-existent users.
-- Validated the password reset email for the registered user.
-- Successfully updated the password using the reset email link.
-- Confirmed successful login with the new password.
-
-**Item Addition:**
-- Added two items: one with all fields filled and another with only mandatory fields.
-- Verified both items appear in the item list.
-
-**User Profile Update:**
-- Updated the user’s email address to a new Gmail address.
-- Verified successful login with the updated email and ensured login with the previous email fails.
-
-**Admin Dashboard Validation:**
-- Logged in as an admin (securely passing credentials via the terminal).
-- Searched for the updated email in the admin dashboard and validated its presence.
 
 ## How to Run the Tests
 Follow these steps to execute the automated tests:
